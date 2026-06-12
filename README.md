@@ -11,3 +11,7 @@
 <div align=center>
   <img width="200" src="https://i.ibb.co/CKhmzdBw/image.png">
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Krashly&langs_count=6&layout=compact&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krashly&show_icons=true&count_private=true&theme=radical&include_all_commits=true)
